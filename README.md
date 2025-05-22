@@ -53,9 +53,9 @@ The application includes the following images located in the `images/` folder:
 
 | File Name | Preview               |
 |-----------|------------------------|
-| `1.png`   | ![1.png](https://github.com/StevenTharwat/SGPOS/images/1.png) |
-| `2.png`   | ![2.png](https://github.com/StevenTharwat/SGPOS/images/2.png) |
-| `3.png`   | ![3.png](https://github.com/StevenTharwat/SGPOS/images/3.png) |
-| `4.png`   | ![4.png](https://github.com/StevenTharwat/SGPOS/images/4.png) |
+| `1.png`   | ![1.png](images/1.png) |
+| `2.png`   | ![2.png](2.png) |
+| `3.png`   | ![3.png](3.png) |
+| `4.png`   | ![4.png](4.png) |
 
 
