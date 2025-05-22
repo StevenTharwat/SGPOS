@@ -1,0 +1,2 @@
+# SGPOS
+Simple POS Application
